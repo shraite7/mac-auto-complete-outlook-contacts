@@ -1,0 +1,12 @@
+textEditor.JPanelTextEditor$1
+textEditor.JPanelTextEditor
+textEditor.JPanelTextEditor$2
+testEditor.findEmails$1
+testEditor.findEmails$2
+testEditor.JPanelTextEditor
+testEditor.seprateEmails
+testEditor.seprateEmails$1
+testEditor.seprateEmails$2
+testEditor.findEmails
+testEditor.JPanelTextEditor$1
+testEditor.JPanelTextEditor$2
